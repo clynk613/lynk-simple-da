@@ -12,7 +12,7 @@
       "keywords": [
         "vpc"
       ],
-      "short_description": "A simple deployable architecture",
+      "short_description": "A simple deployable architecture - lynk",
       "long_description": "A simple deployable architecture to use as a starting point and test things around.",
       "offering_docs_url": "https://raw.githubusercontent.com/l2fprod/simple-da/main/README.md",
       "support_details": "This is a demonstration and no official support is given.",
